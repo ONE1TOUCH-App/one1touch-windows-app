@@ -1,4 +1,4 @@
-# ONE1TOUCH VPN — загрузки для Windows
+# ONE1TOUCH VPN — приложение для Windows
 
 Официальные **установщики** десктоп-клиента ONE1TOUCH для Windows 10/11.
 
